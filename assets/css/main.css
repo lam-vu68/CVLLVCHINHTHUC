@@ -341,7 +341,7 @@ a {
   bottom: 0;
   width: 0;
   background: #ec8dbc;
-  transition: width 0.5s linear;
+  transition: width 0.5 ease-out;
 }
 
 .r-heading:hover::after {
