@@ -1,8 +1,7 @@
-.container-fuilt {
-  background-color: #ffff;
+.container-fluid {
   background-image: url(/assets/img/nen.jpg);
   background-size: cover;
-  z-index: -9;
+  z-index: -1;
 }
 .container {
   width: 900px !important;
